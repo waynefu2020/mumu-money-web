@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mumu-money-web/static/css/main.6a64adfc.chunk.css",
+    "main.js": "/mumu-money-web/static/js/main.375485f9.chunk.js",
+    "main.js.map": "/mumu-money-web/static/js/main.375485f9.chunk.js.map",
+    "runtime-main.js": "/mumu-money-web/static/js/runtime-main.7e6a593e.js",
+    "runtime-main.js.map": "/mumu-money-web/static/js/runtime-main.7e6a593e.js.map",
+    "static/js/2.538315bf.chunk.js": "/mumu-money-web/static/js/2.538315bf.chunk.js",
+    "static/js/2.538315bf.chunk.js.map": "/mumu-money-web/static/js/2.538315bf.chunk.js.map",
+    "index.html": "/mumu-money-web/index.html",
+    "static/css/main.6a64adfc.chunk.css.map": "/mumu-money-web/static/css/main.6a64adfc.chunk.css.map",
+    "static/js/2.538315bf.chunk.js.LICENSE.txt": "/mumu-money-web/static/js/2.538315bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e6a593e.js",
+    "static/js/2.538315bf.chunk.js",
+    "static/css/main.6a64adfc.chunk.css",
+    "static/js/main.375485f9.chunk.js"
+  ]
+}
